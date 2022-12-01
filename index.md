@@ -64,6 +64,8 @@ iFixit é uma comunidade global composta por pessoas que se ajudam mutuamente em
 
 [ifixit](https://pt.ifixit.com/)
 
+![Manifesto reparo](./manifesto_ifixit.jpg)
+
 <!--- * * *
 
 * * *
