@@ -30,12 +30,18 @@ Essas medidas fazem com que acabe sendo mais vantajoso e barato para o usuário 
 >
 > **Então porque comprar um celular se você não pode trocar sua bateria?**
 
-# Segurança e sla o que dos produtos pelas empresas
-
- [Seguranca](./seguranca.html).
+* * *
 
 * * *
 
-# O Lixo eletrônico ou E-Waste
+# LEIA MAIS SOBRE:
+
+## Segurança e sla o que dos produtos pelas empresas
+
+ [Segurança](./seguranca.html).
+
+* * *
+
+## O Lixo eletrônico ou E-Waste
 
 [Lixo eletrônico](./ewaste.html).
