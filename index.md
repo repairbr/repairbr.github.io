@@ -29,22 +29,12 @@ Essas medidas fazem com que acabe sendo mais vantajoso e barato para o usuário 
 >
 > **Então porque comprar um celular se você não pode trocar sua bateria?**
 
-* * *
-
 # Segurança e sla o que dos produtos pelas empresas
 
- blablablablabasl
+ [Seguranca](./seguranca.html).
 
 * * *
 
 # O Lixo eletrônico ou E-Waste
 
- blablablablabasl
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Lixo eletrônico](./ewaste.html).
