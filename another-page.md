@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Direito de Reparar
+description: Este site tem o objetivo de difundir conhecimento sobre direito de reparar.
 ---
 
-## Welcome to another page
+## PARTICIPE
 
-_yay_
+Entre para o nosso grupo de Telegram e vamos juntos mobilizar atividades do movimento de Direito de Reparar nas nossas localidades.
 
-[back](./)
+![QR Code](./logo_RtR.jpg)
+
+https://discord.gg/ZBsUkzAXZ4
+
+
+[Voltar](./)
