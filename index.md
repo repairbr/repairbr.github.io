@@ -2,17 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Faça parte da comunidade e ajude o movimento a crescer no Brasil**
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-### Faça parte da comunidade e ajude o movimento a crescer no Brasil
-
-[Participe](./another-page.html).
+[Participe](./another-page.html)
 
 # O que é Direito de reparar?
 
