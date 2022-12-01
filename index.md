@@ -18,11 +18,11 @@ Direito de reparar ou Direito ao reparo (do original Right to Repair), é um mov
 
 Você pode. 
 
-No entanto os produtos usados no dia-a-dia como eletrodomésticos, computadores e celulares estão se tornando cada vez mais difíceis de reparar. Muitas vezes algum equipamento tem um problema em uma única peça, o que poderia ser resolvido com a substituição mas as companhias não liberam acesso a compra dessa peça, ou para troca-la é necessária uma ferramenta específica que apenas o fabricante tem e se faz necessário encontrar uma autorizada que pode acabar te cobrando muito mais por ser a única a fornecer esse serviço. 
+No entanto, os produtos usados no dia-a-dia como eletrodomésticos, computadores e celulares estão se tornando cada vez mais difíceis de reparar. Muitas vezes algum equipamento tem um problema em uma única peça, o que poderia ser resolvido com a substituição mas as companhias não liberam acesso a compra dessa peça, ou para trocá-la é necessária uma ferramenta específica que apenas o fabricante tem e se faz necessário encontrar uma autorizada que pode acabar te cobrando muito mais por ser a única a fornecer esse serviço. 
 
-Para além da restrição de acesso a peças e ferramentas muitos componentes eletrônicos de aparelhos são soldados ou colados de tal forma que não podem ser substituidos, como as baterias de celulares que são soldadas hoje em dia.
+Para além da restrição de acesso a peças e ferramentas muitos componentes eletrônicos de aparelhos são soldados ou colados de tal forma que não podem ser substituídos, como as baterias de celulares que são soldadas hoje em dia.
 
-Quando não existem barreiras fisícas, podem existir barreiras de software que fazem necessário o uso de um código espacífico para desbloquear a nova peça e torna-lá compatível com o sistema do produto que você comprou para ser seu e ter direitos sobre isso.
+Quando não existem barreiras físicas, podem existir barreiras de software que fazem necessário o uso de um código específico para desbloquear a nova peça e torná-la compatível com o sistema do produto que você comprou para ser seu e ter direitos sobre isso.
 
 Essas medidas fazem com que acabe sendo mais vantajoso e barato para o usuário comprar um novo produto, alimentando o crescente montante de lixo eletrônico global, e girando uma lógica sem sentido de forçar o consumidor a trocar todo um equipamento com centenas de componentes bons e funcionais por conta de um componente com defeito.
 
@@ -40,11 +40,11 @@ Vídeo produzido pela Canaltech que aborda sobre o direito de reparar
 
 [Canaltech](https://youtu.be/Z4ytOLJkMu4)
 
-## Right to Repair: Desdobramentos no brasil
+## Direito ao Conserto: o que é e por que lutar por ele
 
-Alguma coisa
+Artigo da ecycle sobre direito de consertar
 
-[Canaltech](https://magis.agej.com.br/right-to-repair-desdobramentos-no-brasil/)
+[ecycle](https://www.ecycle.com.br/direito-ao-conserto/)
 
 ## Right to Repair EU
 
