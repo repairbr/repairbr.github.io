@@ -30,6 +30,38 @@ Essas medidas fazem com que acabe sendo mais vantajoso e barato para o usuário 
 >
 > **Então porque comprar um celular se você não pode trocar sua bateria?**
 
+# Referências
+
+## POR QUE você "não pode" CONSERTAR seu CELULAR?
+
+Vídeo produzido pela Canaltech que aborda sobre o direito de reparar
+
+![Canaltech](https://youtu.be/Z4ytOLJkMu4)
+
+## Right to Repair: Desdobramentos no brasil
+
+Alguma coisa
+
+![Canaltech](https://magis.agej.com.br/right-to-repair-desdobramentos-no-brasil/)
+
+## Right to Repair EU
+
+Site oficial da organização de direito de reparar da União Europeia
+
+![Repair.eu](https://repair.eu/)
+
+## Repair Estados Unidos
+
+Our goal is to advocate for repair-friendly policies, regulations, statutes, and standards at the national, state, and local levels. 
+
+![Repair US](https://www.repair.org/)
+
+## I Fix It
+
+iFixit é uma comunidade global composta por pessoas que se ajudam mutuamente em reparos. Vamos reparar o mundo, um dispositivo de cada vez.
+
+![ifixit](https://pt.ifixit.com/)
+
 * * *
 
 * * *
@@ -38,10 +70,10 @@ Essas medidas fazem com que acabe sendo mais vantajoso e barato para o usuário 
 
 ## Segurança e sla o que dos produtos pelas empresas
 
- [Segurança](./seguranca.html).
+ [Segurança](./seguranca.html)
 
 * * *
 
 ## O Lixo eletrônico ou E-Waste
 
-[Lixo eletrônico](./ewaste.html).
+[Lixo eletrônico](./ewaste.html)
