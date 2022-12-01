@@ -2,19 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # O que é Direito de reparar?
 
 Direito de reparar ou Direito ao reparo (do original Right to Repair), é um movimento global sobre garantir o direito do usuário a ter acesso a parte e ferramentas para consertar seus produtos, poder fazer o uso dos mesmos manuais e formas de diagnóstico de problemas que os fabricantes e acesso aos softwares para resetar peças e chaves de segurança.
 
-![Logo Right to Repair](logo_RtR.jpg)
+![Logo Right to Repair](./logo_RtR.jpg)
 
 * * *
 
@@ -39,3 +31,11 @@ Essas medidas fazem com que acabe sendo mais vantajoso e barato para o usuário 
 # O Lixo eletrônico ou E-Waste
 
  blablablablabasl
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
