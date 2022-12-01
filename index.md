@@ -3,6 +3,7 @@ layout: default
 ---
 
 ### Faça parte da comunidade e ajude o movimento a crescer no Brasil
+
 [Participe](./another-page.html).
 
 # O que é Direito de reparar?
