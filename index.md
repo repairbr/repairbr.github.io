@@ -10,114 +10,32 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# O que é Direito de reparar?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Direito de reparar ou Direito ao reparo (do original Right to Repair), é um movimento global sobre garantir o direito do usuário a ter acesso a parte e ferramentas para consertar seus produtos, poder fazer o uso dos mesmos manuais e formas de diagnóstico de problemas que os fabricantes e acesso aos softwares para resetar peças e chaves de segurança.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+![Logo Right to Repair](logo_RtR.jpg)
 
 * * *
 
-### Here is an unordered list:
+# Porque você não pode consertar os seus produtos?
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Você pode. No entanto os produtos usados no dia-a-dia como eletrodomésticos, computadores e celulares estão se tornando cada vez mais difíceis de reparar. Muitas vezes algum equipamento tem um problema em uma única peça, o que poderia ser resolvido com a substituição mas na grande maioria dos casos as companhias não liberam acesso a compra dessa peça, ou para troca-la é necessária uma ferramenta específica que apenas o fabricante tem. Para além da restrição de acesso a peças e ferramentas muitos componentes eletrônicos de aparelhos são soldados ou colados de tal forma que não podem ser substituidos, como as baterias de celulares que são soldadas hoje em dia. Quando não existem barreiras fisícas, podem existir barreiras de software que fazem necessário o uso de um código espacífico para desbloquear a nova peça e torna-lá compatível com o sistema do produto que você comprou para ser seu e ter direitos sobre isso.
 
-### And an ordered list:
+Essas medidas fazem com que acabe sendo mais vantajoso e barato para o usuário comprar um novo produto, alimentando o crescente montante de lixo eletrônico global, e girando uma lógica sem sentido de forçar o consumidor a trocar todo um equipamento com centenas de componentes bons e funcionais por conta de um componente com defeito.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+> Você compraria um carro se não pudesse trocar os pneus?
+>
+> Então porque comprar um celular se você não pode trocar sua bateria?
 
-### And a nested list:
+* * *
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+# Segurança e sla o que dos produtos pelas empresas
 
-### Small image
+ blablablablabasl
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* * *
 
-### Large image
+# O Lixo eletrônico ou E-Waste
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+ blablablablabasl
