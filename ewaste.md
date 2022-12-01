@@ -6,7 +6,7 @@ description: Este site tem o objetivo de difundir conhecimento sobre direito de 
 
 # Lixo eletrônico
 
-Entre para o nosso servidor no Dircord e vamos juntos mobilizar atividades do movimento de Direito de Reparar nas nossas localidades.
+O lixo eletrônico é a categoria de rejeitos que mais cresce no mundo e de todo seu montante apenas uma pequena parte é reciclada corretamente.
 
 ## Mineração
 

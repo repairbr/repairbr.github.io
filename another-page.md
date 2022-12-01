@@ -8,8 +8,6 @@ description: Este site tem o objetivo de difundir conhecimento sobre direito de 
 
 Entre para o nosso servidor no Dircord e vamos juntos mobilizar atividades do movimento de Direito de Reparar nas nossas localidades.
 
-[Grupo](https://discord.gg/ZBsUkzAXZ4)
-
 ![QR Code](./qrCode.png)
 
 [Voltar](./)
